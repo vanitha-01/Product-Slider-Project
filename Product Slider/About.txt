@@ -1,0 +1,16 @@
+				
+						PRODUCT SLIDER
+
+The script generally includes the following elements:
+
+1.Variables to store the product data and the current slide index
+2.Event handlers (e.g. on arrow click or dot click) to update the current slide index and call the sliding function
+3.A function to slide through the products based on the current slide index and update the product cart on the page
+4.Elements (e.g. arrows or dots) for the user to navigate through the products
+5.The ability to slide through the products automatically by using setInterval() function
+6.The ability to stop the sliding on hover and resume on leaving.
+
+In addition, the script should be able to handle dynamic data changes, such as adding or removing products from the cart, without breaking the sliding functionality. 
+It can also have a responsive design, that means it should adjust itself according to the screen size. It can also have the option to show the products in a grid
+view and also a list view. In summary, a Product Cart Slider in JavaScript provides a visually appealing and interactive way for users to navigate through a product 
+cart,and it can be easily integrated into e-commerce websites, online shops, and other web applications where a product cart is required.
